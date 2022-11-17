@@ -1,0 +1,54 @@
+# Compiled class file
+*.class
+
+#*.settings
+#*.project
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+#*.jar
+*.war
+*.nar
+*.ear
+#*.zip
+*.tar.gz
+#*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+bin
+*.class
+*.aux
+*.bbl
+*.log
+*.blg
+*.nav
+*.out
+*.snm
+*.toc
+*.spl
+*.lot
+*.lof
+
+.metadata
+
+.DS_Store
+
+.DS
+*.war
+*.ear
+
+LibrarianRobot/QURobotLibrarian/RobotLibrarian/.idea/workspace.xml
+LibrarianRobot/QURobotLibrarian/RobotLibrarian/.idea/misc.xml
+LibrarianRobot/QURobotLibrarian/RobotLibrarian/.idea/modules.xml
+LibrarianRobot/QURobotLibrarian/RobotLibrarian/.idea/RobotLibrarian.iml
+LibrarianRobot/QURobotLibrarian/RobotLibrarian/.idea/vcs.xml
