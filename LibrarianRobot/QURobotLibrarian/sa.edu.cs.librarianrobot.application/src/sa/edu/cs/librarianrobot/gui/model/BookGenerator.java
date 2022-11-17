@@ -1,7 +1,7 @@
 
 /**
- * @author faisal
- *
+ * Abdullah Alhasan
+ *Abdullah Alhabib
  */
 package sa.edu.cs.librarianrobot.gui.model;
 
