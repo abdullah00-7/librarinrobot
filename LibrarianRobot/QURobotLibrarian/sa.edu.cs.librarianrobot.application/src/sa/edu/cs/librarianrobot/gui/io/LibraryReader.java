@@ -14,8 +14,8 @@ import sa.edu.cs.librarianrobot.modeling.librarypackage.Library;
 import sa.edu.cs.librarianrobot.modeling.librarypackage.LibrarypackagePackage;
 
 /**
- *
- * @author faisal
+ *Abdullah Alhasan
+ * Abdullah Alhabib
  */
 public class LibraryReader {
 	private String fileName = "library_X_.xmi";
